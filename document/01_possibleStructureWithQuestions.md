@@ -41,7 +41,7 @@ Do not write a diary (in chronological order) BUT a linear text that motivates, 
 ## Analysis (typically long)
 
 * How does your world look like? Which kind of bricks are available and needed for your construction? (Why exactly those? Why not others?) 
-![](analysis.png)
+![](resources/analysis.png)
 
 * Introduce the **relevant aspects** of the problem domain you are working in.
 * Introduce the base you are working on, e.g. relevant aspects of the VSL.
@@ -58,7 +58,7 @@ Do not write a diary (in chronological order) BUT a linear text that motivates, 
 ## Related work (typically medium length)
 
 * How did others build their solutions that cover multiple of your problems? 
- ![](relatedWork)  
+ ![](resources/relatedWork.png)  
 
 * In analysis and related work you present existing work. The difference is that in related work you present work that answers multiple of your research questions together while in analysis you typically present work addressing single or few aspects.
 
@@ -71,7 +71,7 @@ Do not write a diary (in chronological order) BUT a linear text that motivates, 
 
 ## Design (typically long part)
 
-![](design.png)
+![](resources/design.png)
 
 * How and why did you end up with exactly this aeroplane? 
 
@@ -88,13 +88,13 @@ Do not write a diary (in chronological order) BUT a linear text that motivates, 
 
 * Relevant details of the implementation
 
- ![](implementation.png)
+ ![](resources/implementation.png)
 
 * Examples, details.
 * **Result**: Selected details such as special frameworks used. Screenshots. Information what is implemented and what not for which reason.
 
 ## Evaluation (typically medium length)
-![](evaluation.png)
+![](resources/evaluation.png)
 
 * The evaluation should show if you met your goals, e.g. performance (latency, requests per second), usability.
 * Use your statistics knowledge for obtaining significant results.
