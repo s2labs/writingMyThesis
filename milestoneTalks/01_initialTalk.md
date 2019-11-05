@@ -82,7 +82,7 @@ The following questions should be answered. The structure can be used:
   * How is your time planning?
   * Which are the milestones? (What has to be fulfilled when to measure that you are in time?)
   * Gantt chart diagram, e.g.
-![](gantt.png)
+![](resources/gantt.png)
   * A template suggestion is in the attached *.ods file below this wiki
 * Resulting artefacts/ Key results
   * Which new things will be available after your work? (e.g. survey of..., new software component/ functionality, ...)
