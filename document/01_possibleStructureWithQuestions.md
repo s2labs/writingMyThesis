@@ -5,22 +5,38 @@ Overall, your reader feels most happy if she always knows what she is reading fo
 Do not write a diary (in chronological order) BUT a linear text that motivates, analyzes and discusses your solution in the best structured way you can write it down.
 
 * Abstract
+  * What is your contribution?
+
 * Introduction
+  * Motivation
+  * Methodology
+  * Summary of chapters
+  
 * Analysis
   * Presentation of the problem domain
   * Analysis of the problem domain solution space with Identification of requirements
-  * Presentation and assessment of useful building blocks
+  * Presentation and assessment of useful building blocks for your work
   * Summary of requirements/ Structuring of the research question into multiple sub goals
+
 * Related Work
   * Presentation of other solutions that cover *many* of the identified requirements. (If only few requirements are met, the related work probably suits better into the Analysis section.)
+  * How do blueprints for your problem look like?
+
 * Design
   * Discussion of your design options and decisions
+    * What were the alternatives?
+    * How did you come up with your solution?
+
 * Implementation
   * Selected details
+
 * Evaluation
-  * Quantitative
-  * Qualitative
+  * Quantitative, e.g. timing measurements
+  * Qualitative, e.g. user study
+  * Show non-functional properties
+
 * Conclusion
+  * How are the requirements fulfilled
 
 ## Abstract
 
