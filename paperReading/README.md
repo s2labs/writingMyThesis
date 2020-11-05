@@ -31,7 +31,8 @@ It also helps making reference lists for LaTeX!
 1. Do not mark everything! When you are new to a topic, you may find everything interesting. When you know more about a domain, having everything marked is useless...
 2. Use the following color scheme for marking text:
   - <span style="color:red">red = problem the paper tackles</span>
-  - <span style="color:pink">pink = sub problem</span>
   - <span style="color:green">green = major contribution of the paper</span>
-  - <span style="color:blue">blue = subcontribution / explanation of a contribution</span>
   - <span style="color:orange">yellow = interesting / important</span>
+  - <span style="color:pink">pink = sub problem</span>
+  - <span style="color:blue">blue = subcontribution / explanation of a contribution</span>
+
